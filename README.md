@@ -76,5 +76,3 @@ Scikit-learn – machine learning models
 ### Environment
 
 Jupyter Notebook
-
-
