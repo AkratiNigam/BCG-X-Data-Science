@@ -78,4 +78,6 @@ Scikit-learn – machine learning models
 Jupyter Notebook
 
 ### Certificate
-[View Certificate](BCG X Data Science Certificate.pdf)
+[📜 View Certificate](BCG%20X%20Data%20Science%20Certificate.pdf)
+
+
