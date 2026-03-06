@@ -76,3 +76,6 @@ Scikit-learn – machine learning models
 ### Environment
 
 Jupyter Notebook
+
+### Certificate
+![BCG Data Science Certificate](assets/certificate.png)
